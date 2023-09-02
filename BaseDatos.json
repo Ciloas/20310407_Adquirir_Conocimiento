@@ -1,0 +1,38 @@
+[
+    {
+        "Usuario": "Hola",
+        "Bot": "Hola, De que quieres hablar?"
+    },
+    {
+        "Usuario": "Matematicas",
+        "Bot": "Estan muy faciles, pongace a estudiar"
+    },
+    {
+        "Usuario": "Comida",
+        "Bot": "Tacos"
+    },
+    {
+        "Usuario": "Manuel",
+        "Bot": "Creador del chatbot"
+    },
+    {
+        "Usuario": "Platano",
+        "Bot": "Fruta amarilla con forma de media luna"
+    },
+    {
+        "Usuario": "Carros",
+        "Bot": "Son Un medio de transporte motorizado con 4 ruedas"
+    },
+    {
+        "Usuario": "a",
+        "Bot": "Primer letra del alfabeto"
+    },
+    {
+        "Usuario": "Platanos",
+        "Bot": "Plural de platano"
+    },
+    {
+        "Usuario": "Mono",
+        "Bot": "Personaje de una pelicula de kung fu"
+    }
+]
